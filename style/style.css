@@ -39,6 +39,7 @@ main {
   grid-template-rows: auto;
   grid-template-columns: 1fr 1fr 1fr;
   gap: 1em;
+  column-gap: 70px;
 }
 
 main > article {
